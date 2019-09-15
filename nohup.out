@@ -108,3 +108,9 @@ W, [2019-09-15T23:58:04.265975 #30197]  WARN -- : Use command: xdotool key ctrl+
 I, [2019-09-15T23:58:04.266195 #30197]  INFO -- : Execute: xdotool key ctrl+plus
 W, [2019-09-15T23:58:04.404742 #30197]  WARN -- : shortcut property is deprecated.
 W, [2019-09-15T23:58:04.404899 #30197]  WARN -- : Use command: xdotool key ctrl+plus instead of shortcut: ctrl+plus
+I, [2019-09-15T23:58:04.405018 #30197]  INFO -- : Execute: xdotool key ctrl+plus
+W, [2019-09-16T01:01:26.506522 #12725]  WARN -- : shortcut property is deprecated.
+W, [2019-09-16T01:01:26.506943 #12725]  WARN -- : Use command: xdotool key alt+Left instead of shortcut: alt+Left
+I, [2019-09-16T01:01:26.507093 #12725]  INFO -- : Execute: xdotool key alt+Left
+W, [2019-09-16T01:01:27.335317 #12725]  WARN -- : shortcut property is deprecated.
+W, [2019-09-16T01:01:27.335497 #12725]  WARN -- : Use command: xdotool key meta+s instead of shortcut: meta+s
